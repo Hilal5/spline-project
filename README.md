@@ -21,7 +21,6 @@ Saya mencoba menggabungkan pengalaman visual interaktif dengan elemen desain min
 
 🔗 **Live View:**  
 [👉 Lihat Project Glasses Bounce](https://my.spline.design/untitled-GVsXUvRnC782iuttrsLcjlS5-CjF/)
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
 
 ---
 
