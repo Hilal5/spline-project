@@ -1,7 +1,9 @@
 # 🕶️ Spline 3D Projects – by Hilal Prayogi
 
 Selamat datang di showcase kecil proyek 3D saya yang dibuat menggunakan [Spline](https://spline.design/).  
-Di bawah ini ada dua eksperimen visual yang saya buat: **Glasses Bounce** dan **Toggle Glass Effect**, kedepannya akan lebih update lagi.
+Di bawah ini ada dua eksperimen visual yang saya buat: **Glasses Bounce** dan **Toggle Glass Effect**.
+
+kedepannya akan lebih update dan bertambah lagi.
 
 ---
 
